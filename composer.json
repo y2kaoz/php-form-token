@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Y2YaoZ\\PhpFormToken\\": "src/"
+      "Y2KaoZ\\PhpFormToken\\": "src/"
     }
   },
   "authors": [
